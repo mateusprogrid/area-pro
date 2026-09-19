@@ -43,3 +43,12 @@ Height: 5 m
 Material: Flooring
 Waste margin: 10%
 Price: R$ 85.00/m²
+
+Area: 50.00 m²
+Recommended material: 55.00 m²
+Estimated cost: R$ 4,675.00
+
+Tech Stack
+- Flutter
+- Dart
+- Material 3
